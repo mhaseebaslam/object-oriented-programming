@@ -61,5 +61,3 @@ This project is licensed under the **[MIT License](LICENSE)**. This means you ar
 ---
 
 Made with ❤️ by [Muhammad Haseeb](https://github.com/mhaseebaslam).
-
----
