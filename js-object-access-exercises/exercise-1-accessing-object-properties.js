@@ -2,9 +2,9 @@
 
 // Create an object person with the properties
 const person = {
-    name: "John Doe",
-    age: 30,
-    city: "New York"
+  name: "John Doe",
+  age: 30,
+  city: "New York",
 };
 
 // Access and print each property using dot notation
